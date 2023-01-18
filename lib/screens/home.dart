@@ -122,8 +122,7 @@ class HomePage extends StatelessWidget {
                             width: 142,
                             decoration: const BoxDecoration(
                               image: DecorationImage(
-                                  image: NetworkImage(
-                                      'https://www.kolibrimusic.com/wp-content/uploads/2018/03/spotify-viral-50-global.jpg'),
+                                  image: AssetImage('/images/weeknd.jpeg'),
                                   fit: BoxFit.cover),
                               borderRadius: BorderRadius.only(
                                   topLeft: Radius.circular(4),

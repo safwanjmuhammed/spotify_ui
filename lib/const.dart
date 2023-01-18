@@ -17,18 +17,18 @@ List<PlayListItem> kPlaylistGrid = [
   PlayListItem(
       title: 'Daily Mix 1',
       img:
-          'https://i0.wp.com/www.noise11.com/wp/wp-content/uploads/2021/11/Adele-30.jpg?fit=875%2C875'),
+          'https://ourculturemag.com/wp-content/uploads/2020/06/after-hours-mikrofwno.jpg'),
   PlayListItem(
       title: 'Daily Mix 3',
       img:
           'https://yt3.ggpht.com/ytc/AKedOLSrzEtaB6cNd0sxMDapTZ0ZIIKcGQMtGNaZ6py00Q=s900-c-k-c0x00ffffff-no-rj'),
   PlayListItem(
       title: 'Chill Vibes',
-      img:
-          'https://www.fashionkibatain.com/wp-content/uploads/2017/04/guided-meditaiton.jpg'),
+      img: 'https://i.ibb.co/HHLDPMM/Screenshot-20191018-184702-2.png'),
   PlayListItem(
-      title: 'Tea Time',
-      img: 'https://yanashla.com/wp-content/uploads/2020/01/9-15.jpg'),
+      title: 'On Repeat',
+      img:
+          'https://cdns-images.dzcdn.net/images/cover/f6c82c7d673bdf0373a457e52dfcdb36/264x264.jpg'),
   PlayListItem(
       title: 'Power Hour',
       img:
